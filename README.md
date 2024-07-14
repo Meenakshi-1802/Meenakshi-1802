@@ -3,7 +3,7 @@
 </h1>
 
 # 💫 About Me:
-🔭 I’m a Student at SOA University, ITER Bhubneswar<br>🌱 I’m currently Python<br>⚡ Fun fact I love to Crafting doodling😅
+🔭 I’m a Student at SOA University, ITER Bhubneswar<br>🌱 I’m currently learning Python<br>⚡ Fun fact I love to Crafting doodling😅
 
 <!-- ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() -->
