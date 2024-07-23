@@ -3,7 +3,7 @@
 </h1>
 
 # 💫 About Me:
-🔭 I Am a Student At RIMS,Rourkela <br>🌱 I’m currently learning Python<br>⚡ Fun fact I love to do Crafting & doodling😅
+🔭 I'm a Student at RIMS,Rourkela <br>🌱 I’m currently learning Python<br>⚡ Fun fact I love to do Crafting & doodling😅
 
 <!-- ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() -->
