@@ -4,7 +4,7 @@
 </h1>
 
 ## 👩‍💻 About Me :
-🔭 I'm currently studying Master's in Computer Application <br>🌱 I’m currently learning Python<br>
+🔭 I'm currently studying Master's in Computer Application <br>🌱 I’m currently learning C Language <br>
 
 
 
