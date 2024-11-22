@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently studying **Master's in Computer Application**<br>👩‍💻 I'm proficient in **Python** and **SQL**<br>🌱 Currently, I'm diving into the world of **Data Science** and **Data Analysis**<br> 📚 Always learning and enhancing my skills in the **data field**
+🔭 I'm currently studying **Master's in Computer Application**<br>👩‍💻 I'm proficient in **Python** and **SQL**<br>🌱 Currently, I'm diving into the world of **Data Science** and **Data Analysis**<br> 📚 Learning and enhancing my skills in the **data field**
 
 
 ## 🌐 Socials:
