@@ -1,50 +1,27 @@
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Meenakshi+Palai!;" />
-</h1>
-
-## 👩‍💻 About Me :
-🔭 I'm currently studying Master's in Computer Application <br>🌱 I’m currently learning C Language <br>
+# 💫 About Me:
+🔭 I'm currently studying **Master's in Computer Application**<br>👩‍💻 I'm proficient in **Python** and **SQL**<br>🌱 Currently, I'm diving into the world of **Data Science** and **Data Analysis**<br> 📚 Always learning and enhancing my skills in the **data field**
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/meenakshi-palai-1014062b5) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@MeenakshiP1802) 
 
-<!-- ## 🌐 Socials:
-<div align="left">
-  <a href="" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>  -->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Meenakshi-1802&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Meenakshi-1802&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Meenakshi-1802&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🛠 Language and tools:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Meenakshi-1802&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 📊 GitHub Stats:
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Meenakshi-1802&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Meenakshi-1802&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Meenakshi-1802&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Meenakshi-1802&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 📈 My Contributions:
-<div align="center">
-    
-  <br clear="both">
+---
+[![](https://visitcount.itsvg.in/api?id=Meenakshi-1802&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://raw.githubusercontent.com/Meenakshi-1802/Meenakshi-1802/output/snake.svg" alt="Snake animation" />
-
-
-  ---
-  #### <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60"> <em><b>Thank You for Visiting My Profile!</b></em>
-
-  <div id="header" align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Meenakshi-1802&style=for-the-badge&color=blue" alt=""/>
-</div>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
