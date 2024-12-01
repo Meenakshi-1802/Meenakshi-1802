@@ -26,3 +26,6 @@
 [![](https://visitcount.itsvg.in/api?id=Meenakshi-1802&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Meenakshi-1802&label=Profile%20Views&color=10&icon=3&pretty=true" />
+</a>
