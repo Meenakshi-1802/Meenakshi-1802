@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋Hi,i'm Meenakshi Palai<br>
-🔭 I'm currently studying **Master's in Computer Application**<br>👩‍💻 I'm proficient in **Statistics**, **Python** and **SQL**<br>🌱 Currently, I'm diving into the world of **Data Analysis**<br> 📚 Learning and enhancing my skills in the **data field**
+🔭 I'm currently studying **Master's in Computer Application**<br>👩‍💻 I'm proficient in **Statistics**, **Python** and **SQL**<br>🌱 Currently, I'm diving into the world of **Data Analysis**<br> 📚 I'm currently learning Power BI
 
 
 ## 🌐 Socials:
