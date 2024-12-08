@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋Hii Everyone..<br>
-🔭 I'm currently studying **Master's in Computer Application**<br>👩‍💻 I'm proficient in **Statistics**, **Python** and **SQL**<br>🌱 Currently, I'm diving into the world of **Data Analysis**<br> 📚 I'm currently learning Power BI
+🔭 I'm currently studying **Master's in Computer Application**<br>👩‍💻 I'm proficient in **Statistics**, **Python** and **SQL**<br>🌱 Currently, I'm diving into the world of **Data Analysis**<br> 
 
 
 ## 🌐 Socials:
