@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Meenakshi Palai!
-### 🚀 Data Science Enthusiast | MCA Student | Aspiring Machine Learning Engineer
+### 🚀 Data Science Enthusiast | MCA Student | 
 
 I am an aspiring **Data Scientist** with a strong passion for technology, coding, and problem-solving. My journey in tech is driven by curiosity and a desire to innovate through data-driven solutions.
 
