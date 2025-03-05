@@ -1,40 +1,27 @@
-# 👋 Hello, I'm Meenakshi Palai!
-### 🚀 Data Science Enthusiast | MCA Student | 
+# 💫 About Me:
+👋 Hello, I'm Meenakshi Palai!<br>🚀 Data Science Enthusiast | MCA Student |<br>🌱 Currently learning: NumPy & Pandas for Data Science<br>💬 Ask me about: Python, Java, MySQL<br>
 
-I am an aspiring **Data Scientist** with a strong passion for technology, coding, and problem-solving. My journey in tech is driven by curiosity and a desire to innovate through data-driven solutions.
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/meenakshi-palai-1014062b5) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@MeenakshiP1802) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meenakshipalai368@gmail.com) 
 
-## 👨🏻‍💻 About Me:
-- 🌱 **Currently learning**: NumPy & Pandas for Data Science  
-- 💬 **Ask me about**: Python, Java, MySQL 
-- 📫 **How to reach me**:  
-  - ✉️ Email: [meenakshipalai368@gmail.com](mailto:meenakshipalai368@gmail.com)  
-  - 🔗 LinkedIn: [Meenakshi Palai](https://linkedin.com/in/meenakshi-palai-1014062b5)  
-  - 🐦 Twitter: [@MeenakshiP1802](https://twitter.com/MeenakshiP1802)  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Meenakshi-1802&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Meenakshi-1802&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Meenakshi-1802&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Meenakshi-1802&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 💻 Tech Stack:
-- **Languages**: C, Python, Java  
-- **Databases**: MySQL  
-- **Tools & Platforms**: GitHub, Git, VS Code  
-- **Data Science**: NumPy, Pandas (learning)  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-## 📊 My GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meenakshi-1802&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meenakshi-1802&layout=compact)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Meenakshi-1802&theme=dracula)  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Meenakshi-1802&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Meenakshi-1802&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🔗 **Let's Connect & Collaborate!**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/meenakshi-palai-1014062b5)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/Meenakshi-1802)  
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/MeenakshiP1802)  
-
----
-
-⭐ **Keep Learning, Keep Growing!** 🚀  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
