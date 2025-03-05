@@ -6,9 +6,8 @@ I am an aspiring **Data Scientist** with a strong passion for technology, coding
 ---
 
 ## 👨🏻‍💻 About Me:
-- 🔭 **Currently working on**: A Machine Learning project using Python  
 - 🌱 **Currently learning**: NumPy & Pandas for Data Science  
-- 💬 **Ask me about**: Python, Java, MySQL, Machine Learning  
+- 💬 **Ask me about**: Python, Java, MySQL 
 - 📫 **How to reach me**:  
   - ✉️ Email: [meenakshipalai368@gmail.com](mailto:meenakshipalai368@gmail.com)  
   - 🔗 LinkedIn: [Meenakshi Palai](https://linkedin.com/in/meenakshi-palai-1014062b5)  
