@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm Meenakshi Palai!<br>🚀 Data Science Enthusiast | MCA Student |<br>🔍 Passionate about Data Analytics, Machine Learning, and Python Programming.<br>📊 Currently learning NumPy, Pandas, and exploring Machine Learning.<br>🌱 Aspiring Data Analyst | Exploring Data-Driven Insights.<br>💬 Ask me about: Python, Java, MySQL<br>
+👋 Hello, I'm Meenakshi Palai!<br>🚀 Data Science Enthusiast | MCA Student |<br>🔍 Passionate about Data Analytics, Machine Learning, and Python Programming.<br>📊 Currently exploring  Machine Learning Tools.<br>🌱 Aspiring Data Analyst | Exploring Data-Driven Insights.<br>💬 Ask me about: Python, Java, MySQL<br>
 
 
 ## 🌐 Socials:
