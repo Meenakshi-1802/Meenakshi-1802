@@ -1,5 +1,15 @@
 # 💫 About Me:
-# 👋 Hello everyone, welcome to my Data Universe 🌌  <br>- 🛠️ Currently working on **NLP projects** and brushing up my **Python skills** 🐍  <br>- 🤝 Open to collaborating on **AI/ML projects with real-world impact** 🌍  <br>- 🌱 Learning how to transform **data → insights → intelligence** 📊  <br>- 💬 Ask me about **Python, Data Science, and AI applications** 🤖  <br>- ⚡** Debugging with curiosity, learning with interest **🚀<br><br><br>
+👋 Hello everyone, welcome to my Data Universe 🌌
+
+🛠️ Currently working on NLP projects and brushing up my Python skills 🐍
+
+🤝 Open to collaborating on AI/ML projects with real-world impact 🌍
+
+🌱 Learning how to transform data → insights → intelligence 📊
+
+💬 Ask me about Python, Data Science, and AI applications 🤖
+
+⚡ Debugging with curiosity, learning with interest 🚀
 
 
 ## 🌐 Socials:
