@@ -1,15 +1,13 @@
 # 💫 About Me:
 👋 Hello everyone, welcome to my Data Universe 🌌
-
 🛠️ Currently working on NLP projects and brushing up my Python skills 🐍
-
 🤝 Open to collaborating on AI/ML projects with real-world impact 🌍
-
 🌱 Learning how to transform data → insights → intelligence 📊
-
 💬 Ask me about Python, Data Science, and AI applications 🤖
-
 ⚡ Debugging with curiosity, learning with interest 🚀
+
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/18dcd78a-e44e-4280-a985-307173cf8271" />
+
 
 
 ## 🌐 Socials:
