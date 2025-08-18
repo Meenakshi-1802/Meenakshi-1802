@@ -1,10 +1,16 @@
 # 💫 About Me:
 👋 Hello everyone, welcome to my Data Universe 🌌
+
 🛠️ Currently working on NLP projects and brushing up my Python skills 🐍
+
 🤝 Open to collaborating on AI/ML projects with real-world impact 🌍
+
 🌱 Learning how to transform data → insights → intelligence 📊
+
 💬 Ask me about Python, Data Science, and AI applications 🤖
+
 ⚡ Debugging with curiosity, learning with interest 🚀
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/meenakshipalai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pmeenakshi1802@gmail.com) 
