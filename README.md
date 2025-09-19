@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋Hello Everyone ,Welcome to my Data Universe✨<br>
-🎓 I am an MCA student passionate about Data Science and AI.<br>🔭Currently brushing up Python skills and learning Data Structures for AI/ML & NLP.<br>🌱Exploring the journey from data → patterns → predictions 🤖<br>⚡Fun fact: Sleepy outside 💤 curious inside 🤓
+🎓 I am an MCA student passionate about Data Science and AI.<br>🔭Currently brushing up Python skills and learning AIML .<br>🌱Exploring the journey from data → patterns → predictions 🤖<br>⚡Fun fact: Sleepy outside 💤 curious inside 🤓
 
 
 ## 🌐 Socials:
