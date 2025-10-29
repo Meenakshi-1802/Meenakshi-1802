@@ -1,11 +1,11 @@
-🍀About Me ~
-👋 Hello Everyone, welcome to my Data Universe ✨<br>
-🎓 I’m an MCA student passionate about Data Science, AI & NLP.<br>
-🔭 Currently brushing up my Python skills and exploring the world of AI & Machine Learning.<br>
-🌱 On a journey from data → patterns → intelligence → predictions 🤖<br>
-⚡ Fun fact: Calm and sleepy outside 😴, but my mind’s always racing with ideas 🤖✨
+# 🍀About Me ~ <br>
+## 👋 Hello Everyone, welcome to my Data Universe ✨<br>
+## 🎓 I’m an MCA student passionate about Data Science, AI & NLP.<br>
+## 🔭 Currently brushing up my Python skills and exploring the world of AI & Machine Learning.<br>
+## 🌱 On a journey from data → patterns → intelligence → predictions 🤖<br>
+## ⚡ Fun fact: Calm and sleepy outside 😴, but my mind’s always racing with ideas 🤖✨
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/meenakshipalai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pmeenakshi1802@gmail.com)  
 
 # 💻 Tech Stack:
