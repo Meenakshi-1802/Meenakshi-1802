@@ -4,8 +4,12 @@
 
 <img align="right" alt="Coding Girl" width="360" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" />
 
-<h1>Hi, I'm Meenakshi Palai 👋</h1>
+<p align="left">
+  <b><font size="7">Hi, I'm Meenakshi Palai 👋</font></b>
+</p>
 <h3>🤖 Aspiring AI / ML Engineer · Odisha, India 🇮🇳</h3>
+
+<br/>
 
 <br/>
 
