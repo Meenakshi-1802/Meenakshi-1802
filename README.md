@@ -1,17 +1,90 @@
-# 💫 About Me:
-🌟 Hi, I'm Meenakshi — an aspiring Data Analyst & Data Scientist.<br>🎯 Skilled in Python, MySQL, Power BI, and Data Visualization.<br>📊 I enjoy turning raw data into insights, patterns, and predictions.<br>🚀 Currently learning advanced analytics & building real-world projects.<br>
+<img align="right" alt="Coding Girl" width="360" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" />
 
+```
+// hello world 👋
+```
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/meenakshipalai18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pmeenakshi1802@gmail.com) 
+<h1>I'm Meenakshi Palai</h1>
+<h3>🤖 Aspiring AI / ML Engineer · India 🇮🇳</h3>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Meenakshi-1802&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Meenakshi-1802&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Meenakshi-1802&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+
+```python
+$ python engineer.py
+✓ Building ML models with Python
+✓ Exploring Deep Learning & Neural Nets
+✓ Contributing to open source
+→ status: open to work
+```
+
+<br/>
+
+- 🔭 Currently working on **ML & AI Projects with Python**
+- 🌱 Currently learning **Deep Learning, Neural Networks & MLOps**
+- 👯 Open to collaborate on **AI/ML Open Source Projects**
+- 💬 Ask me about **Python, Scikit-learn, TensorFlow, Pandas & Power BI**
+- 📫 Reach me at **pmeenakshi1802@gmail.com**
+- ⚡ I turn raw data into **intelligent decisions**
+
+<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Meenakshi-1802&icon=3&color=0)](https://visitcount.itsvg.in)
 
+### 🌐 Connect with me
+
+<a href="https://linkedin.com/in/meenakshipalai18">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:pmeenakshi1802@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Meenakshi-1802">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+---
+
+### ⚙️ Tech stack
+
+![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+<br/>
+
+---
+
+### 📊 GitHub stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meenakshi-1802&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Meenakshi-1802&show_icons=true&theme=github_dark&hide_border=true" height="155"/>
+</p>
+
+<br/><br/><br/><br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Meenakshi-1802&theme=github-dark-blue&hide_border=true" width="100%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Meenakshi-1802&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=58a6ff" width="100%"/>
+
+<br/>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Meenakshi-1802&style=flat-square&color=58a6ff&label=Profile+Views"/>
+  <br/><br/>
+  <i>"Building intelligent systems, one model at a time."</i>
+</p>
