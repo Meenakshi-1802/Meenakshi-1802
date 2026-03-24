@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Meenakshi%20Palai&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=50&desc=AI%20%2F%20ML%20Engineer%20%7C%20NLP%20Enthusiast%20%7C%20Python%20Developer&descSize=16&descAlignY=70&descColor=8b949e" width="100%"/>
 </div>
 
-<br/>
-
-<img align="right" alt="Coding Girl" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding Girl" width="360" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" />
 
 <h1>Hi, I'm Meenakshi Palai 👋</h1>
 <h3>🤖 Aspiring AI / ML Engineer · Odisha, India 🇮🇳</h3>
@@ -16,7 +14,6 @@
 - 🤝 Looking to collaborate on **open source AI/ML & NLP projects**
 - 🧠 Passionate about **Natural Language Processing, Neural Networks & Python**
 - 💡 Interested in building systems that **understand, learn & adapt**
-- 📫 Reach me at **pmeenakshi1802@gmail.com**
 - ⚡ Goal: become an **AI/ML Engineer** who ships real, impactful models
 
 <br/>
@@ -78,7 +75,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:0d1117&height=100&section=footer&fontColor=58a6ff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:0d1117&height=100&section=footer"/>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=Meenakshi-1802&style=flat-square&color=58a6ff&label=Profile+Views"/>
   <br/><br/>
