@@ -7,15 +7,14 @@
 <br/>
 
 <p align="left">
-  <b><font size="7" color="#58a6ff">Hi, I'm Meenakshi Palai 👋</font></b><br>
-  <b><font size="4" color="#8b949e">🤖 Aspiring AI / ML Engineer · Odisha, India 🇮🇳</font></b>
+  <b><font size="5" color="#58a6ff">Hi, I'm Meenakshi Palai 👋</font></b>
 </p>
 
-- 🔭 Currently building **ML & NLP projects** — from text classification to intelligent pipelines
-- 🌱 Deepening my knowledge in **Deep Learning, Transformers & LLMs**
-- 🤝 Looking to collaborate on **open source AI/ML & NLP projects**
-- 🧠 Passionate about **Natural Language Processing & Neural Networks**
-- ⚡ Goal: become an **AI/ML Engineer** who ships real, impactful models
+- 🔭 Currently building **ML & NLP projects**
+- 🌱 Deepening knowledge in **Deep Learning & Transformers**
+- 🤝 Looking to collaborate on **Open Source AI projects**
+- 🧠 Passionate about **Neural Networks & Python**
+- ⚡ Goal: Become an **Impactful AI/ML Engineer**
 
 <br/>
 
@@ -28,30 +27,31 @@
 
 ---
 
-### ⚙️ Tech stack
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white"/>
-</p>
+### ⚙️ Tech Stack
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| **AI/ML** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black) |
+| **Data** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05033?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Analysis
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meenakshi-1802&show_icons=true&theme=github_dark_blue&hide_border=true&title_color=58a6ff&icon_color=58a6ff" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meenakshi-1802&layout=compact&theme=github_dark_blue&hide_border=true&title_color=58a6ff" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meenakshi-1802&layout=compact&theme=github_dark_blue&hide_border=true&title_color=58a6ff" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Meenakshi-1802&show_icons=true&theme=github_dark_blue&hide_border=true&title_color=58a6ff&icon_color=58a6ff" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Meenakshi-1802&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="100%"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Meenakshi-1802&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=58a6ff" width="100%"/>
 </p>
 
----
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:0d1117&height=100&section=footer"/>
