@@ -19,12 +19,13 @@ $ python engineer.py
 
 <br/>
 
-- 🔭 Currently working on **ML & AI Projects with Python**
-- 🌱 Currently learning **Deep Learning, Neural Networks & MLOps**
-- 👯 Open to collaborate on **AI/ML Open Source Projects**
-- 💬 Ask me about **Python, Scikit-learn, TensorFlow, Pandas & Power BI**
-- 📫 Reach me at **pmeenakshi1802@gmail.com**
-- ⚡ I turn raw data into **intelligent decisions**
+- 🔭 Currently building **ML & NLP projects** — from text classification to intelligent pipelines
+- 🌱 Deepening my knowledge in **Deep Learning, Transformers & Large Language Models**
+- 🤝 Looking to collaborate on **open source AI/ML & NLP projects**
+- 🧠 Passionate about **Natural Language Processing, Neural Networks & Python**
+- 💡 Interested in building systems that **understand, learn & adapt**
+- ⚡ Goal: become an **AI/ML Engineer** who ships real, impactful models
+
 
 <br/>
 
