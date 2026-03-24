@@ -4,7 +4,7 @@
 
 <br/>
 
-<img align="right" alt="Coding Girl" width="340" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" />
+<img align="right" alt="Coding Girl" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <h1>Hi, I'm Meenakshi Palai 👋</h1>
 <h3>🤖 Aspiring AI / ML Engineer · Odisha, India 🇮🇳</h3>
@@ -67,7 +67,7 @@
 
 <br/><br/><br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Meenakshi-1802&theme=github-dark-blue&hide_border=true" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=Meenakshi-1802&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="100%"/>
 
 <br/>
 
