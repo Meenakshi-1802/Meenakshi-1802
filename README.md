@@ -1,21 +1,13 @@
-<img align="right" alt="Coding Girl" width="360" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" />
-
-```
-// hello world 👋
-```
-
-<h1>I'm Meenakshi Palai</h1>
-<h3>🤖 Aspiring AI / ML Engineer · India 🇮🇳</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Meenakshi%20Palai&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=50&desc=AI%20%2F%20ML%20Engineer%20%7C%20NLP%20Enthusiast%20%7C%20Python%20Developer&descSize=16&descAlignY=70&descColor=8b949e" width="100%"/>
+</div>
 
 <br/>
 
-```python
-$ python engineer.py
-✓ Building ML models with Python
-✓ Exploring Deep Learning & Neural Nets
-✓ Contributing to open source
-→ status: open to work
-```
+<img align="right" alt="Coding Girl" width="340" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" />
+
+<h1>Hi, I'm Meenakshi Palai 👋</h1>
+<h3>🤖 Aspiring AI / ML Engineer · Odisha, India 🇮🇳</h3>
 
 <br/>
 
@@ -24,8 +16,8 @@ $ python engineer.py
 - 🤝 Looking to collaborate on **open source AI/ML & NLP projects**
 - 🧠 Passionate about **Natural Language Processing, Neural Networks & Python**
 - 💡 Interested in building systems that **understand, learn & adapt**
+- 📫 Reach me at **pmeenakshi1802@gmail.com**
 - ⚡ Goal: become an **AI/ML Engineer** who ships real, impactful models
-
 
 <br/>
 
@@ -50,9 +42,10 @@ $ python engineer.py
 ### ⚙️ Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -84,8 +77,10 @@ $ python engineer.py
 
 ---
 
-<p align="center">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:0d1117&height=100&section=footer&fontColor=58a6ff"/>
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=Meenakshi-1802&style=flat-square&color=58a6ff&label=Profile+Views"/>
   <br/><br/>
   <i>"Building intelligent systems, one model at a time."</i>
-</p>
+</div>
